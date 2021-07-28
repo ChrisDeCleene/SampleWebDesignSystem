@@ -1,5 +1,5 @@
-# Chris DeCleene Sample Website Design System
-> Here is a sample website design system for reference. I plan to use this as a starting point for all future projects.
+# Chris DeCleene's Website Design System
+> Here is my sample website design system. I built this as part of the Full Stack Engineer Career Path on [Codecamy](https://www.codecademy.com/learn). I plan to continue updating as I learn more in my coursework. I will also be using this project as a template for all future website development projects. It is a great way to keep styling consistent and have a reference as the project grows. Feel free to use this on your own projects as well! Happy Coding!
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -7,7 +7,6 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -16,73 +15,57 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Project created as part of the Full Stack Engineer Career Path on [Codecademy](https://www.codecademy.com/learn)
+- The Website Design System is used to easily keep track of the sites styling as the project grows.
+- I will be using this as a template for future websites.
+- This specific example is available for others to use.
+
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+![image](https://img.icons8.com/color/50/000000/html-5--v1.png) ![image](https://img.icons8.com/color/48/000000/css3.png) ![image](https://img.icons8.com/color/48/000000/javascript--v1.png) ![image](https://img.icons8.com/color/48/000000/git.png) ![image](https://img.icons8.com/fluent/48/000000/github.png) ![image](https://img.icons8.com/fluent/48/000000/gimp.png)
 
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
+- Hamburger Menu for mobile devices
+- Fixed position header
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+![Website Screenshot](./images/samplewebdesignimage.png)
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+- Live-version of the project can be found @ https://chrisdecleene.github.io/SampleWebDesignSystem/
+- Project is available on [GitHub](https://github.com/ChrisDeCleene/SampleWebDesignSystem.git)
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Box overlap in the #colors section.
+- Footer styling is rigid. Needs better spacing.
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Move each style to it's own page.
+- Add additional styling sections. I.e. Box Styling.
+- Improve accessibility.
+- Improve mobile responsive.
 
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by [Codecademy](https://www.codecademy.com/)
 - This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [Chris DeCleene](https://chrisdecleene.github.io/) - feel free to contact me!
 
 
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
