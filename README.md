@@ -1,5 +1,5 @@
 # Chris DeCleene's Website Design System
-> Here is my sample website design system. I built this as part of the Full Stack Engineer Career Path on [Codecamy](https://www.codecademy.com/learn). I plan to continue updating as I learn more in my coursework. I will also be using this project as a template for all future website development projects. It is a great way to keep styling consistent and have a reference as the project grows. Feel free to use this on your own projects as well! Happy Coding!
+> Here is my sample website design system. I built this as part of the Full Stack Engineer Career Path on [Codecademy](https://www.codecademy.com/learn). I plan to continue updating as I learn more in my coursework. I will also be using this project as a template for all future website development projects. It is a great way to keep styling consistent and have a reference as the project grows. Feel free to use this on your own projects as well! Happy Coding!
 
 ## Table of Contents
 * [General Info](#general-information)
