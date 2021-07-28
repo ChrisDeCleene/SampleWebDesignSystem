@@ -22,14 +22,36 @@
     <meta name="twitter:image" content="https://chrisdecleene.github.io/SampleWebDesignSystem/images/samplewebdesignogimage.png">
     <!-- Site Favicon -->
     <link rel="icon" type="image/png" href="images/CreditCardChrisFavicon.png" size="32x32" />
+
 </head>
 <body>
-  <header>
-    
-
+  <header class="header">
+    <nav class="navbar">
+      <a href="index.html"><img src="images/CreditCardChris.png" alt="credit card chris logo" width="80px" class="nav-logo"></a>
+      <ul class="nav-menu">
+        <li class="nav-item">
+          <a href="" class="nav-link">Home</a>
+        </li>
+        <li class="nav-item">
+          <a href="#colors" class="nav-link">Colors</a>
+        </li>
+        <li class="nav-item">
+          <a href="#fonts" class="nav-link">Fonts</a>
+        </li>
+        <li class="nav-item">
+          <a href="#text-styles" class="nav-link">Text Styles</a>
+        </li>
+      </ul>
+      <div class="hamburger">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+      </div>
+    </nav>  
   </header>
+
   <main>
-    <h1>Sample Web Design System</h1>
+    <h1 class="main-h1">Sample Web Design System</h1>
 
     <section id="colors">
       <h2>Colors</h2>
@@ -113,8 +135,20 @@
       </div>
     </section>
   </main>
+
   <footer>
-    
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#colors">Colors</a></li>
+        <li><a href="#fonts">Fonts</a></li>
+        <li><a href="#text-styles">Text Styles</a></li>
+      </ul>
+    </nav>
+    <p>Copyright 2021 - Credit Card Chris LLC</p>
   </footer>
+
+  <script src="script.js"></script>
+
 </body>
 </html>
